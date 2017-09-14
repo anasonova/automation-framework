@@ -72,15 +72,6 @@
                     <appendAssemblyId>false</appendAssemblyId>
                 </configuration>
             </plugin>
-            <plugin>
-            <groupId>de.ailis.maven.plugins</groupId>
-            <artifactId>javascript-maven-plugin</artifactId>
-                <version>1.0.6</version>
-            <extensions>true</extensions>
-                  <configuration>
-             <incremental>false</incremental>
-                 </configuration>
-             </plugin>
         </plugins>
     </build>
 </project>
